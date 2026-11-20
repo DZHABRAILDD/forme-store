@@ -1,3 +1,4 @@
+import {seasonProducts} from './seasonProducts.js';
 import {packshotProducts} from './packshotProducts.js';
 import {productDetails} from './productDetails.js';
 const source='https://www.instagram.com/neqaxo_grozny_/';
@@ -56,7 +57,7 @@ data.push(...[
  ['deep-denim','Джинсы из тёмного денима','Джинсы','Индиго','#2c4051',9900,'DKcCvidIBM3'],
  ['faded-denim','Джинсы с контрастной строчкой','Джинсы','Голубой','#718592',9900,'DKZjCNZoa67']
 ].map(([id,name,category,color,hex,price,post])=>({id,name,category,color,hex,price,post})));
-data.push(...packshotProducts);
+data.push(...packshotProducts.filter(p=>p.id!=='packshot-0'),...seasonProducts);
 const catalogData=data.filter(p=>Boolean(p.post||p.sourceUrl||p.category==='Кепки')&&!['pocket-parka','hoodie'].includes(p.id));
 catalogData.forEach(p=>{if(p.category!=='Кепки')p.catalogPhoto='/images/catalog/'+p.id+'.webp'});
 const priority=p=>p.id==='bordered-cardigan'?-2:p.id==='boss-mardon-cardigan'?-1:0;

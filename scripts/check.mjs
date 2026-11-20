@@ -2,11 +2,17 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {data,catalogData,looks,lookItems,photo,read} from '../src/data.js';
 import {packshotProducts} from '../src/packshotProducts.js';
-import {currentEditorials} from '../src/editorial.js';
+import {currentEditorials,heroPhotos,featuredBrands} from '../src/editorial.js';
+import {createHash} from 'node:crypto';
 import {filterProducts} from '../src/catalog.js';
-assert.equal(catalogData.length,51);assert.equal(packshotProducts.length,17);assert.equal(currentEditorials.length,6);assert.equal(catalogData.filter(p=>p.category==='Кепки').length,6);assert(packshotProducts.every(p=>p.sourceUrl.startsWith('https://') && p.model && p.catalogPhoto.includes('/packshot-')));assert(!catalogData.some(p=>p.id.startsWith('triumph-')));assert(!data.some(p=>p.id.startsWith('tf-')||p.id.startsWith('boss-')));assert.equal(catalogData.find(p=>p.category==='Куртки').id,'bordered-cardigan');assert(!catalogData.some(p=>['hoodie','pocket-parka'].includes(p.id)));assert(catalogData.every(p=>p.post||p.sourceUrl||p.category==='Кепки'));assert(!catalogData.some(p=>p.id==='longsleeve-ivory'));
+assert.equal(catalogData.length,57);assert.equal(packshotProducts.length,17);assert.equal(currentEditorials.length,6);assert.equal(catalogData.filter(p=>p.category==='Кепки').length,8);assert(packshotProducts.every(p=>p.sourceUrl.startsWith('https://') && p.model && p.catalogPhoto.includes('/packshot-')));assert(!catalogData.some(p=>p.id.startsWith('triumph-')));assert(!data.some(p=>p.id.startsWith('tf-')||p.id.startsWith('boss-')));assert.equal(catalogData.find(p=>p.category==='Куртки').id,'bordered-cardigan');assert(!catalogData.some(p=>['hoodie','pocket-parka'].includes(p.id)));assert(catalogData.every(p=>p.post||p.sourceUrl||p.category==='Кепки'));assert(!catalogData.some(p=>p.id==='longsleeve-ivory'));
 assert.equal(looks.length,12);for(let i=0;i<looks.length;i++){const path=`public/images/model-cutout-${i}.webp`;assert(fs.existsSync(path));assert(fs.statSync(path).size<256000);}
 const plain={colors:[],size:'',min:'',max:'',sort:'default'};
+assert.equal(heroPhotos.length,6);assert.equal(featuredBrands.length,8);
+assert(!data.some(p=>p.id==='packshot-0'));
+for(const p of [...heroPhotos,...currentEditorials]){const bytes=fs.readFileSync('public'+p.image);assert.equal(createHash('sha256').update(bytes).digest('hex'),p.sha256,'Editorial must remain an untouched original');}
+for(const id of ['merano-set','cd-icon-set']){const p=data.find(x=>x.id===id);assert.equal(p.parts.length,2);}
+const appCode=fs.readFileSync('src/main.jsx','utf8');assert(!appCode.includes('className="sticky-look"'));assert(appCode.includes('className="look-purchase"'));assert(!appCode.includes('Актуальные образы'));
 assert.equal(filterProducts(data,plain).length,data.length);
 const caps=filterProducts(data,{...plain,colors:['Бежевый'],size:'Единый'});
 assert.equal(caps.length,2);assert(caps.every(p=>p.category==='Кепки'));
