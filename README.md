@@ -9,6 +9,6 @@
 `npm run check` — проверить каталог и корзину.
 `npm run publish:prepare` — проверить, собрать и обновить папку docs.
 
-GitHub Pages: ветка main, папка /docs. Для адреса без подпапки репозиторий называется как аккаунт: DZHABRAILDD.github.io.
+GitHub Pages: ветка main, папка /docs. Адрес магазина: https://dzhabraildd.github.io/forme-store/.
 
 Исходники: src. Фотографии: public/images. Источники новых фото: references/packshots/sources.json.
