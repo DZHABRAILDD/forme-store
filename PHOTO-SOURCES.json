@@ -1,0 +1,929 @@
+{
+  "editorials": [
+    {
+      "id": "location-1",
+      "title": "Фактурный трикотаж",
+      "alt": "Мужская модель в фактурном джемпере на фоне пустынного пейзажа",
+      "image": "/images/editorials/location-1.jpg",
+      "width": 800,
+      "height": 1000,
+      "source": "https://www.thefashionisto.com/massimo-dutti-2024-down-to-earth/",
+      "download": "https://www.thefashionisto.com/wp-content/uploads/2024/12/Massimo-Dutti-2024-Down-to-Earth-009.jpg",
+      "photographer": "Mark Kean",
+      "campaign": "Massimo Dutti — Down to Earth, December 2024",
+      "models": "Thatcher Thornton and Nick Offord",
+      "sha256": "de56db12c5d835fb9e295e3c66784f22e62f10bda4c53bcdd965d393fffab39f",
+      "processing": "Original downloaded JPEG bytes. No local edits, no AI, no crop or grading."
+    },
+    {
+      "id": "location-2",
+      "title": "Бордовый акцент",
+      "alt": "Мужская модель в бордовом трикотажном поло в пустыне",
+      "image": "/images/editorials/location-2.jpg",
+      "width": 800,
+      "height": 1000,
+      "source": "https://www.thefashionisto.com/massimo-dutti-2024-down-to-earth/",
+      "download": "https://www.thefashionisto.com/wp-content/uploads/2024/12/Massimo-Dutti-2024-Down-to-Earth-010.jpg",
+      "photographer": "Mark Kean",
+      "campaign": "Massimo Dutti — Down to Earth, December 2024",
+      "models": "Thatcher Thornton and Nick Offord",
+      "sha256": "8279b991487b769fe29c54a0af8f71cdfe1f8ed6478c2acfe30e21965d01bc70",
+      "processing": "Original downloaded JPEG bytes. No local edits, no AI, no crop or grading."
+    },
+    {
+      "id": "location-3",
+      "title": "Кожаная куртка",
+      "alt": "Мужская модель в кожаной куртке и водолазке на фоне пустыни",
+      "image": "/images/editorials/location-3.jpg",
+      "width": 800,
+      "height": 1000,
+      "source": "https://www.thefashionisto.com/massimo-dutti-2024-down-to-earth/",
+      "download": "https://www.thefashionisto.com/wp-content/uploads/2024/12/Massimo-Dutti-2024-Down-to-Earth-006.jpg",
+      "photographer": "Mark Kean",
+      "campaign": "Massimo Dutti — Down to Earth, December 2024",
+      "models": "Thatcher Thornton and Nick Offord",
+      "sha256": "ba56ae495fa59d68117a8a0c04219ced857d89c7e90d72cef53f06a69580dfb3",
+      "processing": "Original downloaded JPEG bytes. No local edits, no AI, no crop or grading."
+    },
+    {
+      "id": "location-4",
+      "title": "Мягкие слои",
+      "alt": "Мужская модель в красном трикотаже и солнцезащитных очках у скалы",
+      "image": "/images/editorials/location-4.jpg",
+      "width": 800,
+      "height": 1000,
+      "source": "https://www.thefashionisto.com/massimo-dutti-2024-down-to-earth/",
+      "download": "https://www.thefashionisto.com/wp-content/uploads/2024/12/Massimo-Dutti-2024-Down-to-Earth-014.jpg",
+      "photographer": "Mark Kean",
+      "campaign": "Massimo Dutti — Down to Earth, December 2024",
+      "models": "Thatcher Thornton and Nick Offord",
+      "sha256": "3dc94e41262a8b0d7a927397364d190835a0167fa3cff1c4db8451c104d5ff11",
+      "processing": "Original downloaded JPEG bytes. No local edits, no AI, no crop or grading."
+    },
+    {
+      "id": "location-5",
+      "title": "Спокойные фактуры",
+      "alt": "Две мужские модели в куртках на фоне пустыни",
+      "image": "/images/editorials/location-5.jpg",
+      "width": 800,
+      "height": 640,
+      "source": "https://www.thefashionisto.com/massimo-dutti-2024-down-to-earth/",
+      "download": "https://www.thefashionisto.com/wp-content/uploads/2024/12/Massimo-Dutti-2024-Down-to-Earth-003.jpg",
+      "photographer": "Mark Kean",
+      "campaign": "Massimo Dutti — Down to Earth, December 2024",
+      "models": "Thatcher Thornton and Nick Offord",
+      "sha256": "102a5695fc05377d29daf0b5bcf1ecb575501adb51ba7e0c9dc3dc1bb5637661",
+      "processing": "Original downloaded JPEG bytes. No local edits, no AI, no crop or grading."
+    },
+    {
+      "id": "location-6",
+      "title": "Свободный силуэт",
+      "alt": "Мужская модель в куртке и тёмных брюках на фоне песчаного пейзажа",
+      "image": "/images/editorials/location-6.jpg",
+      "width": 800,
+      "height": 640,
+      "source": "https://www.thefashionisto.com/massimo-dutti-2024-down-to-earth/",
+      "download": "https://www.thefashionisto.com/wp-content/uploads/2024/12/Massimo-Dutti-2024-Down-to-Earth-012.jpg",
+      "photographer": "Mark Kean",
+      "campaign": "Massimo Dutti — Down to Earth, December 2024",
+      "models": "Thatcher Thornton and Nick Offord",
+      "sha256": "6d475dd2245841acff16c97a24616044e1780d95505662c0189272bbf1de4635",
+      "processing": "Original downloaded JPEG bytes. No local edits, no AI, no crop or grading."
+    }
+  ],
+  "logos": [
+    {
+      "name": "Loro Piana",
+      "image": "/images/brands/loro-piana.png",
+      "source": "https://iconlogovector.com/logo/loro-piana",
+      "download": "https://iconlogovector.com/uploads/images/2025/03/lg-67ccdd1ec1387-Loro-Piana.webp",
+      "processing": "Transparent padding cropped; proportional downscale only. No AI."
+    },
+    {
+      "name": "Paul & Shark",
+      "image": "/images/brands/paul.png",
+      "source": "https://cdn.worldvectorlogo.com/logos/paul-shark.svg"
+    },
+    {
+      "name": "BOSS",
+      "image": "/images/brands/boss.png",
+      "source": "https://cdn.worldvectorlogo.com/logos/boss-hugo-boss.svg"
+    },
+    {
+      "name": "Calvin Klein",
+      "image": "/images/brands/ck.png",
+      "source": "https://cdn.worldvectorlogo.com/logos/calvin-klein-1.svg"
+    },
+    {
+      "name": "Hermès",
+      "image": "/images/brands/hermes.png",
+      "source": "https://cdn.worldvectorlogo.com/logos/hermes.svg"
+    },
+    {
+      "name": "Lacoste",
+      "image": "/images/brands/crocodile.png",
+      "source": "https://cdn.worldvectorlogo.com/logos/lacoste.svg",
+      "processing": "Original crocodile symbol isolated by cropping, lettering excluded. No AI."
+    }
+  ],
+  "productPhotos": {
+    "processing": "Catalog framing normalized from existing images and replacement source packshots. Deterministic background masking, proportional resize, centering, and vertical tracksuit composition only. No generative tools used in this revision.",
+    "script": "scripts/normalize-catalog-photos.py"
+  },
+  "replacementProducts": [
+    {
+      "replaceId": "ps-13314033",
+      "id": "rl-bedford-chinos",
+      "name": "Брюки Polo Ralph Lauren Bedford Slim Fit",
+      "brand": "Ralph Lauren",
+      "model": "Bedford Slim Fit Chino Trousers Navy",
+      "category": "Брюки",
+      "color": "Тёмно-синий",
+      "hex": "#262b3a",
+      "price": 19900,
+      "sourceUrl": "https://www.mainlinemenswear.co.uk/product/ralph-lauren-bedford-slim-fit-chino-trousers-navy/239819/",
+      "imageSource": "https://cdn.mainlinemenswear.co.uk/images/w_1200,h_1200/f_auto,q_auto/mainlinemenswear/shopimages/products/239819/Mainimage.jpg/Ralph%20Lauren%20Bedford%20Slim%20Fit%20Chino%20Trousers%20Navy",
+      "composition": "98% хлопок, 2% эластан",
+      "cut": "Slim fit",
+      "neck": "Не применяется",
+      "sizes": [
+        "Уточнить размер"
+      ],
+      "localPath": "references/replacements/239819.jpg",
+      "priceNote": "Preserves prior FORME display price; not a quoted retailer price",
+      "verification": "Retailer product description and original front packshot inspected. No AI editing.",
+      "sizeNote": "Retailer sizes dropdown was not exposed; do not claim available stock."
+    },
+    {
+      "replaceId": "ea7-tracksuit",
+      "id": "boss-pique-tracksuit",
+      "name": "Комплект BOSS Tracksuit Set",
+      "brand": "BOSS",
+      "model": "Tracksuit Set Navy",
+      "category": "Комплекты",
+      "color": "Тёмно-синий",
+      "hex": "#222631",
+      "price": 22900,
+      "sourceUrl": "https://www.mainlinemenswear.co.uk/product/boss-tracksuit-set-navy/239428/",
+      "imageSource": "https://cdn.mainlinemenswear.co.uk/images/w_1200,h_1200/f_auto,q_auto/mainlinemenswear/shopimages/products/239428/Mainimage.jpg/BOSS%20Tracksuit%20Set%20Navy",
+      "composition": "53% хлопок, 44% полиэстер, 3% эластан",
+      "cut": "Regular fit",
+      "neck": "С капюшоном",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "localPath": "references/replacements/239428.jpg",
+      "priceNote": "Preserves prior FORME display price; not a quoted retailer price",
+      "verification": "Retailer product description and original front packshot inspected. No AI editing."
+    },
+    {
+      "replaceId": "tf-cashmere-cardigan",
+      "id": "boss-mardon-cardigan",
+      "name": "Кардиган BOSS Mardon",
+      "brand": "BOSS",
+      "model": "Mardon Knit Cardigan Navy",
+      "category": "Куртки",
+      "color": "Тёмно-синий",
+      "hex": "#242831",
+      "price": 49900,
+      "sourceUrl": "https://www.mainlinemenswear.co.uk/product/boss-mardon-knit-cardigan-navy/238683/",
+      "imageSource": "https://cdn.mainlinemenswear.co.uk/images/w_1200,h_1200/f_auto,q_auto/mainlinemenswear/shopimages/products/238683/Mainimage.jpg/BOSS%20Mardon%20Knit%20Cardigan%20Navy",
+      "composition": "100% натуральная шерсть",
+      "neck": "V-образный",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "localPath": "references/replacements/238683.jpg",
+      "priceNote": "Preserves prior FORME display price; not a quoted retailer price",
+      "verification": "Retailer product description and original front packshot inspected. No AI editing."
+    },
+    {
+      "replaceId": "tf-cotton-hoodie",
+      "id": "rl-pullover-hoodie",
+      "name": "Худи Polo Ralph Lauren Pullover",
+      "brand": "Ralph Lauren",
+      "model": "Pullover Hoodie Grey",
+      "category": "Худи",
+      "color": "Серый меланж",
+      "hex": "#97989a",
+      "price": 24900,
+      "sourceUrl": "https://www.mainlinemenswear.co.uk/product/ralph-lauren-pullover-hoodie-grey/234180/",
+      "imageSource": "https://cdn.mainlinemenswear.co.uk/images/w_1200,h_1200/f_auto,q_auto/mainlinemenswear/shopimages/products/234180/Mainimage.jpg/Ralph%20Lauren%20Pullover%20Hoodie%20Grey",
+      "composition": "60% хлопок, 40% полиэстер",
+      "neck": "С капюшоном",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "localPath": "references/replacements/234180.jpg",
+      "priceNote": "Preserves prior FORME display price; not a quoted retailer price",
+      "verification": "Retailer product description and original front packshot inspected. No AI editing."
+    },
+    {
+      "replaceId": "boss-50462529",
+      "id": "rl-classic-longsleeve",
+      "name": "Лонгслив Polo Ralph Lauren Classic Fit",
+      "brand": "Ralph Lauren",
+      "model": "Long Sleeved T Shirt Navy",
+      "category": "Лонгсливы",
+      "color": "Тёмно-синий",
+      "hex": "#202837",
+      "price": 9900,
+      "sourceUrl": "https://www.mainlinemenswear.co.uk/product/ralph-lauren-long-sleeved-t-shirt-navy/162000/",
+      "imageSource": "https://cdn.mainlinemenswear.co.uk/images/w_1200,h_1200/f_auto,q_auto/mainlinemenswear/shopimages/products/162000/Mainimage.jpg/Ralph%20Lauren%20Long%20Sleeved%20T%20Shirt%20Navy",
+      "composition": "100% хлопок",
+      "cut": "Classic fit",
+      "neck": "Круглый",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "localPath": "references/replacements/162000.jpg",
+      "priceNote": "Preserves prior FORME display price; not a quoted retailer price",
+      "verification": "Retailer product description and original front packshot inspected. No AI editing."
+    },
+    {
+      "replaceId": "ea-modal",
+      "id": "ps-zebra-longsleeve",
+      "name": "Лонгслив Paul Smith Zebra",
+      "brand": "Paul Smith",
+      "model": "Long Sleeve T Shirt Black",
+      "category": "Лонгсливы",
+      "color": "Чёрный",
+      "hex": "#222222",
+      "price": 9900,
+      "sourceUrl": "https://www.mainlinemenswear.co.uk/product/paul-smith-long-sleeve-t-shirt-black/158087/",
+      "imageSource": "https://cdn.mainlinemenswear.co.uk/images/w_1200,h_1200/f_auto,q_auto/mainlinemenswear/shopimages/products/158087/Mainimage.jpg/Paul%20Smith%20Long%20Sleeve%20T%20Shirt%20Black",
+      "composition": "100% органический хлопок",
+      "cut": "Regular fit",
+      "neck": "Круглый",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "localPath": "references/replacements/158087.jpg",
+      "priceNote": "Preserves prior FORME display price; not a quoted retailer price",
+      "verification": "Retailer product description and original front packshot inspected. No AI editing."
+    },
+    {
+      "replaceId": "tf-lyocell",
+      "id": "lacoste-classic-longsleeve",
+      "name": "Лонгслив Lacoste Classic Fit",
+      "brand": "Lacoste",
+      "model": "Long Sleeved T Shirt Black",
+      "category": "Лонгсливы",
+      "color": "Чёрный",
+      "hex": "#202020",
+      "price": 9900,
+      "sourceUrl": "https://www.mainlinemenswear.co.uk/product/lacoste-long-sleeved-t-shirt-black/237951/",
+      "imageSource": "https://cdn.mainlinemenswear.co.uk/images/w_1200,h_1200/f_auto,q_auto/mainlinemenswear/shopimages/products/237951/Mainimage.jpg/Lacoste%20Long%20Sleeved%20T%20Shirt%20Black",
+      "composition": "100% хлопок",
+      "cut": "Classic fit",
+      "neck": "Круглый",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "localPath": "references/replacements/237951.jpg",
+      "priceNote": "Preserves prior FORME display price; not a quoted retailer price",
+      "verification": "Retailer product description and original front packshot inspected. No AI editing."
+    }
+  ],
+  "triumphProducts": [
+    {
+      "id": "triumph-35",
+      "post": "https://www.instagram.com/triumph_mz/p/DetSwB4iK6c/",
+      "original": "references/triumph/35.jpg",
+      "mask": "references/triumph/35-mask.png",
+      "image": "/images/catalog/triumph-35.webp",
+      "sha256": "3a37d622aa1bdaf8f4e325865d3b76d1c403ae2919706804c556cb9cb5b36688",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-38",
+      "post": "https://www.instagram.com/triumph_chr/p/DezFycDjVn3/",
+      "original": "references/triumph/38.jpg",
+      "mask": "references/triumph/38-mask.png",
+      "image": "/images/catalog/triumph-38.webp",
+      "sha256": "e4b9e282af6d0d746bb09a694b7584b49301a138f77d969cb8f0ff3c766ffe88",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-33",
+      "post": "https://www.instagram.com/triumph_mz/p/DezFkH3iL8t/",
+      "original": "references/triumph/33.jpg",
+      "mask": "references/triumph/33-mask.png",
+      "image": "/images/catalog/triumph-33.webp",
+      "sha256": "6359b3f6f848cee4c3a5910afa4cc7eb648b2a26844ac48839423002632f9416",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-5",
+      "post": "https://www.instagram.com/triumph_mz/p/Dfj109UCK4F/",
+      "original": "references/triumph/5.jpg",
+      "mask": "references/triumph/5-mask.png",
+      "image": "/images/catalog/triumph-5.webp",
+      "sha256": "fd6901f2223cd38a2166c221ce82da75397dd58ded8cfb2c4ffa4a8845ee2037",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-4",
+      "post": "https://www.instagram.com/triumph_mz/p/DfkPDVViDUv/",
+      "original": "references/triumph/4.jpg",
+      "mask": "references/triumph/4-mask.png",
+      "image": "/images/catalog/triumph-4.webp",
+      "sha256": "d793eeef7b5344a8a00359a4776e93950d0ce20b52ff63ab2ac99acf2fd0caa6",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-21",
+      "post": "https://www.instagram.com/triumph_mz/p/DfLJ2SEiLm9/",
+      "original": "references/triumph/21.jpg",
+      "mask": "references/triumph/21-mask.png",
+      "image": "/images/catalog/triumph-21.webp",
+      "sha256": "68e7380fdf0573d8d9dc68f9b3eeef0b73476bc6b8d3a05d7de422a95e9a3d18",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-20",
+      "post": "https://www.instagram.com/triumph_mz/p/DfLKJJboQSL/",
+      "original": "references/triumph/20.jpg",
+      "mask": "references/triumph/20-mask.png",
+      "image": "/images/catalog/triumph-20.webp",
+      "sha256": "263d8c378bfafa160f98bda9679f1ef510b3ceb05bef56fb999736f19b357448",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-29",
+      "post": "https://www.instagram.com/triumph_mz/p/De3-zJqCOKi/",
+      "original": "references/triumph/29.jpg",
+      "mask": "references/triumph/29-mask.png",
+      "image": "/images/catalog/triumph-29.webp",
+      "sha256": "62c83029fc4d9d59a0779c8b0da4bf31e6c47e68cd450aab50361231e22e22a9",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-30",
+      "post": "https://www.instagram.com/triumph_mz/p/De39eChiGj1/",
+      "original": "references/triumph/30.jpg",
+      "mask": "references/triumph/30-mask.png",
+      "image": "/images/catalog/triumph-30.webp",
+      "sha256": "a79065a335224a4296ea7b023141a90dc2eacec15bbd818448f8e2ccd595acd9",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-37",
+      "post": "https://www.instagram.com/triumph_chr/p/De38gVHDfs8/",
+      "original": "references/triumph/37.jpg",
+      "mask": "references/triumph/37-mask.png",
+      "image": "/images/catalog/triumph-37.webp",
+      "sha256": "4c545c6bb99af6076eae8f88d3faac5b089de8841ac3386f897ebc141a818d83",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-54",
+      "post": "https://www.instagram.com/triumph_mz/p/DebMSqFiEpx/",
+      "original": "references/triumph/54.jpg",
+      "mask": "references/triumph/54-mask.png",
+      "image": "/images/catalog/triumph-54.webp",
+      "sha256": "c09609b6541152d270fb1378f65c456d5a23f73a896f9b86778fa257ee4d18d4",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-41",
+      "post": "https://www.instagram.com/triumph_mz/p/Deo_m2tCNuz/",
+      "original": "references/triumph/41.jpg",
+      "mask": "references/triumph/41-mask.png",
+      "image": "/images/catalog/triumph-41.webp",
+      "sha256": "aa36fe7f14f5a909fd33cd84960b32f2aa0e17d569d44b650f3de3b425b04da9",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-43",
+      "post": "https://www.instagram.com/triumph_mz/p/DemW7M6IpNX/",
+      "original": "references/triumph/43.jpg",
+      "mask": "references/triumph/43-mask.png",
+      "image": "/images/catalog/triumph-43.webp",
+      "sha256": "f6774e02bf4fb1d20f4f533430db969508ea194ab7d25c842a05622607773c9a",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-44",
+      "post": "https://www.instagram.com/triumph_mz/p/DemWydaIfI_/",
+      "original": "references/triumph/44.jpg",
+      "mask": "references/triumph/44-mask.png",
+      "image": "/images/catalog/triumph-44.webp",
+      "sha256": "93622731ff1d2edf3e53fd63695869c98fb79df7b5b09f64b9c7b30d8981cce1",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-49",
+      "post": "https://www.instagram.com/triumph_mz/p/DecZOcPiHE3/",
+      "original": "references/triumph/49.jpg",
+      "mask": "references/triumph/49-mask.png",
+      "image": "/images/catalog/triumph-49.webp",
+      "sha256": "d741e598d342fefecc99a6efef8097cdb15eb4e890580e68843ef140e4dd8101",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-50",
+      "post": "https://www.instagram.com/triumph_mz/p/DecY3JCiKr0/",
+      "original": "references/triumph/50.jpg",
+      "mask": "references/triumph/50-mask.png",
+      "image": "/images/catalog/triumph-50.webp",
+      "sha256": "3d52688085ece258f77c47f4e2dc0bf6526d232a3d5ea0ac4e9d1f8b3e6b458c",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    },
+    {
+      "id": "triumph-0",
+      "post": "https://www.instagram.com/triumph_mz/p/Df7SGv_CATN/",
+      "original": "references/triumph/0.jpg",
+      "mask": "references/triumph/0-mask.png",
+      "image": "/images/catalog/triumph-0.webp",
+      "sha256": "9ddc3c4295a8e06eff184cc9e14217ce62606c4418d28a2ea0726f2020fbfbf5",
+      "processing": "Original Instagram photo pixels isolated using reviewed Adobe clothing selection masks. No generative image editing. White site background, transparent WebP, 720 by 900."
+    }
+  ],
+  "packshotReplacements": [
+    {
+      "id": "packshot-35",
+      "source": "https://www.lyst.com/clothing/loro-piana-treccia-cashmere-half-zip-sweater/",
+      "image": "https://cdna.lystit.com/1040/1300/n/photos/mytheresa/bbb74412/loro-piana-blue-Treccia-Cashmere-Half-zip-Sweater.jpeg",
+      "title": "Loro Piana Treccia Cashmere Half-Zip Sweater",
+      "original": "35-original.jpg",
+      "name": "Джемпер Loro Piana Treccia",
+      "category": "Свитшоты",
+      "color": "Серый",
+      "hex": "#858c91",
+      "price": 9900,
+      "description": "Фактурная вязка, воротник-стойка и короткая молния.",
+      "catalogPhoto": "/images/catalog/packshot-35.webp",
+      "replacementFor": "triumph-35",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "86e797d4c42d337fc43ab5242e0398b3e26ccdcdd420187215e31a46e65b87dc",
+      "sha256Published": "a252a06e489b1a16ffc46f5e200a27511563260946ffb893b205155d1523f655",
+      "originalDimensions": [
+        1040,
+        1300
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-38",
+      "source": "https://www.lyst.com/clothing/polo-ralph-lauren-cotton-t-shirt-778/",
+      "image": "https://cdna.lystit.com/1040/1300/n/photos/nugnes1920/a3b5ecf1/polo-ralph-lauren-Brown-Cotton-T-Shirt.jpeg",
+      "title": "Polo Ralph Lauren Brown Cotton T-Shirt",
+      "original": "38-original.jpg",
+      "name": "Лонгслив Polo Ralph Lauren",
+      "category": "Лонгсливы",
+      "color": "Коричневый",
+      "hex": "#684338",
+      "price": 6900,
+      "description": "Круглая горловина, длинные рукава и небольшая вышивка на груди.",
+      "catalogPhoto": "/images/catalog/packshot-38.webp",
+      "replacementFor": "triumph-38",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "964f474bfa0f748e9b01c40ef9a183b8f9695370a18f6bf8cb62ca27f3c1228d",
+      "sha256Published": "c462907fb02badbcbfd37045e87dfb0639004c2476871addd417e50e635164bd",
+      "originalDimensions": [
+        1040,
+        1300
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-33",
+      "source": "https://stompingground.ca/products/sunspel-longsleeve-classic-tee-navy",
+      "image": "https://stompingground.ca/cdn/shop/files/sunspel-long-sleeve-classic-t-shirt-navy.png?v=1752505124&width=1920",
+      "title": "Sunspel Long Sleeve Classic T-Shirt — Navy",
+      "original": "33-original.jpg",
+      "name": "Лонгслив Sunspel Classic",
+      "category": "Лонгсливы",
+      "color": "Тёмно-синий",
+      "hex": "#1f2634",
+      "price": 6900,
+      "description": "Лонгслив Classic с круглой горловиной и прямым низом. Тёмно-синий цвет.",
+      "catalogPhoto": "/images/catalog/packshot-33.webp",
+      "replacementFor": "triumph-33",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "4656a19880012e16b76fd4c6ac1323700f6776b5e1fe5a3e4f2c50ffdfd7a77a",
+      "sha256Published": "3a105e9e63f4ac03f5f2208c8bd786f33141231fd0348f96721447ad55f8e235",
+      "originalDimensions": [
+        1500,
+        1500
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-5",
+      "source": "https://www.reversible.com/shopping/men/item/loro-piana-parksville-bomber-jacket-971010716",
+      "image": "https://image-raw.reversible.com/raw_images/7a426dd5788f51c714c532ead989d1383256fe5ad9a12364fd1dbc344c3bf069-width800",
+      "title": "Loro Piana Parksville Cashmere Bomber Jacket",
+      "original": "5-original.jpg",
+      "name": "Бомбер Loro Piana Parksville",
+      "category": "Куртки",
+      "color": "Графитовый",
+      "hex": "#3b3c40",
+      "price": 11900,
+      "description": "Трикотажный бомбер с молнией, коротким воротником и эластичными манжетами.",
+      "catalogPhoto": "/images/catalog/packshot-5.webp",
+      "replacementFor": "triumph-5",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "255e51411167624200ee556a0f71a126a17ba0e581e3d58b0c8088b0ca4b4db6",
+      "sha256Published": "c94e92a96b2d14d1afb087f4250e998902c112f5404b1439b0135d328fae5ad2",
+      "originalDimensions": [
+        800,
+        1120
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-4",
+      "source": "https://us.loropiana.com/en/p/man/polo-and-t-shirts/waitaki-polo-shirt-FAN4651",
+      "image": "https://media.loropiana.com/HYBRIS/FAN/FAN4651/2644535D-77B5-4285-A407-F28D87DCC0B6/FAN4651_M006_MEDIUM.jpg",
+      "title": "Waitaki Grey Melange Wool Polo Shirt",
+      "original": "4-original.jpg",
+      "name": "Поло Loro Piana Waitaki",
+      "category": "Лонгсливы",
+      "color": "Серый",
+      "hex": "#74777b",
+      "price": 8900,
+      "description": "Поло с длинным рукавом, отложным воротником и трикотажной отделкой.",
+      "catalogPhoto": "/images/catalog/packshot-4.webp",
+      "replacementFor": "triumph-4",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "d2099877e0f16ec21ea33f81dde9325ca0b26068f15db4a95b3a7e6a0b9d10b4",
+      "sha256Published": "3c1b2594098ed775fa91c48d3cb7c493e1e6eeda6616f49615e35def66c4b87d",
+      "originalDimensions": [
+        690,
+        966
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-21",
+      "source": "https://www.goat.com/apparel/burberry-check-zip-hoodie-nut-ip-check-8102881",
+      "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/613/818/original/1564774_01.jpg.jpeg?width=750",
+      "title": "Burberry Check Zip Hoodie",
+      "original": "21-original.jpg",
+      "name": "Худи Burberry Check Zip",
+      "category": "Худи",
+      "color": "Коричневый",
+      "hex": "#9b795d",
+      "price": 11900,
+      "description": "Клетчатое худи на молнии. Модель Nut IP Check, артикул 8102881.",
+      "catalogPhoto": "/images/catalog/packshot-21.webp",
+      "replacementFor": "triumph-21",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "ec1234fc713781c47750f6aa2c2a84c0753818d689ef8a68092e44b3c71a6926",
+      "sha256Published": "5ae263245d42d12b3f640acd30d0ad8e36ac5b84cc663f8af8fade7f73aee45f",
+      "originalDimensions": [
+        750,
+        750
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-20",
+      "source": "https://www.consortium.co.uk/sunspel-loopback-zip-hooded-sweatshirt-black-mhod1517-bkaa.html",
+      "image": "https://www.consortium.co.uk/media/catalog/product/cache/1/small_image/790x/040ec09b1e35df139433887a97daa66f/s/u/sunspel-loopback-zip-hooded-sweatshirt-black-mhod1517-bkaa-cat_1.jpg",
+      "title": "Sunspel Loopback Zip Hooded Sweatshirt MHOD1517-BKAA",
+      "original": "20-original.jpg",
+      "name": "Худи Sunspel Loopback",
+      "category": "Худи",
+      "color": "Чёрный",
+      "hex": "#17191b",
+      "price": 9900,
+      "description": "Худи на молнии с карманами и шнурком в капюшоне. Артикул MHOD1517-BKAA.",
+      "catalogPhoto": "/images/catalog/packshot-20.webp",
+      "replacementFor": "triumph-20",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "0237ab32eda1120f0058a3b4f31be5819052111b10fd38cfc4138907ce6f597c",
+      "sha256Published": "f09b3b2db048752ff77f1939d0a47c57aa9c692ecbc608275a832accacd14ea1",
+      "originalDimensions": [
+        790,
+        790
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-29",
+      "source": "https://www.lyst.com/clothing/loro-piana-whitney-full-zip-hoodie/",
+      "image": "https://cdna.lystit.com/1040/1300/n/photos/bergdorfgoodman/7efcb0d2/1200x1500/loro-piana-BLUE-NAVY-Whitney-Full-Zip-Hoodie.jpeg",
+      "title": "Loro Piana Navy Blue Whitney Full-Zip Hoodie",
+      "original": "29-original.jpg",
+      "name": "Худи Loro Piana Whitney",
+      "category": "Худи",
+      "color": "Тёмно-синий",
+      "hex": "#202432",
+      "price": 10900,
+      "description": "Худи Whitney с застёжкой на молнию, карманами и трикотажными манжетами.",
+      "catalogPhoto": "/images/catalog/packshot-29.webp",
+      "replacementFor": "triumph-29",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "da4e194d41fc201abddde7d05638ef87bd9d9763997847ba803881501d66454b",
+      "sha256Published": "fbcef30762680162cdfa551a8586abcbd255e45736e6f8488c79ea49cf8db991",
+      "originalDimensions": [
+        1040,
+        1300
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-54",
+      "source": "https://www.mytheresa.com/sg/en/men/burberry-burberry-check-cotton-shirt-brown-p01096975",
+      "image": "https://www.mytheresa.com/image/1094/1238/100/d0/P01096975.jpg",
+      "title": "Burberry Check Cotton Shirt in Brown",
+      "original": "54-original.jpg",
+      "name": "Рубашка Burberry Check",
+      "category": "Куртки",
+      "color": "Коричневый",
+      "hex": "#54413b",
+      "price": 9900,
+      "description": "Рубашка в клетку Truffle/Beige с пуговицами и классическим воротником.",
+      "catalogPhoto": "/images/catalog/packshot-54.webp",
+      "replacementFor": "triumph-54",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "6712c58a8ab7a27a6ee1a75ad5449503c48d12ebfadf2fd90dd50e2ec90ceab9",
+      "sha256Published": "913b47a97a7a1b579e4d499a59e0f86767d9e702122ed20d8848bfa83be967e7",
+      "originalDimensions": [
+        1094,
+        1237
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-41",
+      "source": "https://www.lyst.co.uk/clothing/paul-shark-blouson-made-with-a-loro-piana-storm-system-fabric/",
+      "image": "https://cdna.lystit.com/1040/1300/n/photos/farfetch/41e30923/paul-shark-black-Veste-A-Fermeture-Zippee.jpeg",
+      "title": "Paul & Shark Blouson Made With A Loro Piana Storm System Fabric",
+      "original": "41-original.jpg",
+      "name": "Куртка Paul & Shark Storm System",
+      "category": "Куртки",
+      "color": "Чёрный",
+      "hex": "#16181a",
+      "price": 13900,
+      "description": "Куртка на молнии с отложным воротником и боковыми карманами.",
+      "catalogPhoto": "/images/catalog/packshot-41.webp",
+      "replacementFor": "triumph-41",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "cec67812a58978af18c5e83c540f112b91d12bbada8eabe8f6af37c9c4bffe6e",
+      "sha256Published": "b72ba93922ed86db78888003d0616a71e4ae6d703eaecad063cb6c1aae818e05",
+      "originalDimensions": [
+        1040,
+        1300
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-43",
+      "source": "https://www.solesense.com/en-gb/loro-piana-medway-shell-hooded-jacket-b2ib-fal7274-b2ib",
+      "image": "https://assets.solesense.com/en/images/products/500/loro-piana-medway-shell-hooded-jacket-b2ib-fal7274-b2ib_1.jpg",
+      "title": "Loro Piana Medway Shell Hooded Jacket",
+      "original": "43-original.jpg",
+      "name": "Ветровка Loro Piana Medway",
+      "category": "Куртки",
+      "color": "Коричневый",
+      "hex": "#4e3939",
+      "price": 12900,
+      "description": "Лёгкая куртка Medway с капюшоном, молнией и эластичной отделкой.",
+      "catalogPhoto": "/images/catalog/packshot-43.webp",
+      "replacementFor": "triumph-43",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "a3d302572e86f5f7c071b76c57a037046cfa763241e915d27a036fa3c615ac53",
+      "sha256Published": "2968d85473c496a4619f3c038dd78461616e580c9e92ef780dbddf09581852c7",
+      "originalDimensions": [
+        500,
+        666
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-44",
+      "source": "https://www.mrporter.com/en-us/mens/product/loro-piana/clothing/lightweight-waterproof-jackets/reversible-storm-systemr-windmater-shell-and-cashmere-hooded-bomber-jacket/46376663162903847",
+      "image": "https://www.mrporter.com/variants/images/46376663162903847/in/w2000_q60.jpg",
+      "title": "Loro Piana Reversible Storm System® Hooded Bomber Jacket",
+      "original": "44-original.jpg",
+      "name": "Бомбер Loro Piana Windmate",
+      "category": "Куртки",
+      "color": "Тауп",
+      "hex": "#8a877a",
+      "price": 12900,
+      "description": "Двусторонний бомбер Windmate Storm System с капюшоном и молнией.",
+      "catalogPhoto": "/images/catalog/packshot-44.webp",
+      "replacementFor": "triumph-44",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "908345b359b7a2470c4aa4e85c85245673d1232d0e3590eeeb23d3cf613bc84f",
+      "sha256Published": "9882b932b82aec171d0fc0402fe51b4e457a78d0c4913acc003453f2c677ccec",
+      "originalDimensions": [
+        2000,
+        2667
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-49",
+      "source": "https://www.mrporter.com/en-us/mens/product/loro-piana/clothing/knitted-zip-throughs/cashmere-zip-up-sweater/1647597310626259",
+      "image": "https://www.mrporter.com/variants/images/1647597310626259/in/w2000_q60.jpg",
+      "title": "Loro Piana Navy Cashmere Zip-Up Sweater",
+      "original": "49-original.jpg",
+      "name": "Кардиган Loro Piana Cashmere Zip-Up",
+      "category": "Куртки",
+      "color": "Тёмно-синий",
+      "hex": "#202635",
+      "price": 10900,
+      "description": "Кардиган на молнии с воротником-стойкой и боковыми карманами.",
+      "catalogPhoto": "/images/catalog/packshot-49.webp",
+      "replacementFor": "triumph-49",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "03ea952f49e256214e12cca4b2be769a6a97a589b7bbcc9d502498172eabc9a8",
+      "sha256Published": "20f497ab22f31e154f7c352c22f4cc79693462d8a29714ea68760d0f4edb991c",
+      "originalDimensions": [
+        2000,
+        2667
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-50",
+      "source": "https://www.lyst.com/clothing/loro-piana-cardigan-classic-zip-up/",
+      "image": "https://cdna.lystit.com/1040/1300/n/photos/sugar/b36497ee/1200x1600/loro-piana-Black-Cardigan-Classic-Zip-Up.jpeg",
+      "title": "Loro Piana Classic Zip-Up Cardigan",
+      "original": "50-original.jpg",
+      "name": "Кардиган Loro Piana Classic Zip-Up",
+      "category": "Куртки",
+      "color": "Чёрный",
+      "hex": "#222228",
+      "price": 10900,
+      "description": "Трикотажный кардиган Classic Zip-Up с молнией и высоким воротником.",
+      "catalogPhoto": "/images/catalog/packshot-50.webp",
+      "replacementFor": "triumph-50",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "1d5abc2a549806a1c2fc95d59beaa95b15fda7890ce00621040d347f954ffb53",
+      "sha256Published": "1bd45ca05ccbcc198ebe6db67d19ba583c92a3f11d7905f48eca8ee634aaf2da",
+      "originalDimensions": [
+        1040,
+        1300
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-0",
+      "source": "https://www.lyst.com/clothing/loro-piana-quarona-denim-five-pocket-pants-3/",
+      "image": "https://cdna.lystit.com/1040/1300/n/photos/neimanmarcus/35ecd0e7/loro-piana-516X-BLACK-PINE-Quarona-Denim-Five-Pocket-Pants.jpeg",
+      "title": "Loro Piana Quarona Denim Five-Pocket Pants",
+      "original": "0-original.jpg",
+      "name": "Джинсы Loro Piana Quarona",
+      "category": "Джинсы",
+      "color": "Коричневый",
+      "hex": "#534c3a",
+      "price": 8900,
+      "description": "Джинсы Quarona прямого кроя с пятью карманами. Цвет Black Pine.",
+      "catalogPhoto": "/images/catalog/packshot-0.webp",
+      "replacementFor": "triumph-0",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "533fd7f27507c962efde2d77dfabee272d3e885659954e5487884566b3bd75c4",
+      "sha256Published": "a96a1a30a6bd39a10f098912c7b3f97a3e07626e2456160ca7071179fadcdb4f",
+      "originalDimensions": [
+        1040,
+        1300
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-30",
+      "source": "https://www.lyst.com/clothing/loro-piana-duo-bomber-jacket/",
+      "image": "https://cdna.lystit.com/1040/1300/n/photos/senser/d9123f2e/622x748/loro-piana-F8VF-Duo-Bomber-Jacket.jpeg",
+      "title": "Loro Piana Duo Bomber Jacket",
+      "original": "30-original.jpg",
+      "name": "Бомбер Loro Piana Duo",
+      "category": "Куртки",
+      "color": "Коричневый",
+      "hex": "#706556",
+      "price": 13900,
+      "description": "Трикотажный бомбер Duo с капюшоном и молнией.",
+      "catalogPhoto": "/images/catalog/packshot-30.webp",
+      "replacementFor": "triumph-30",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "98b0074a771de7cfe0ca746a00a12a91f61b67e4e534b15691ba304c52060ff1",
+      "sha256Published": "24b65ff69179ed739ea58e93deb2b34d0366e39bd15821c50e071dc8510f9726",
+      "originalDimensions": [
+        1040,
+        1300
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    },
+    {
+      "id": "packshot-37",
+      "source": "https://www.mytheresa.com/us/en/men/loro-piana-merano-cashmere-hoodie-grey-p00897761",
+      "image": "https://www.mytheresa.com/image/1094/1238/100/03/P00897761.jpg",
+      "title": "Loro Piana Merano Cashmere Hoodie",
+      "original": "37-original.jpg",
+      "name": "Худи Loro Piana Merano",
+      "category": "Худи",
+      "color": "Светло-серый",
+      "hex": "#b2b3ae",
+      "price": 10900,
+      "description": "Худи Merano с молнией, боковыми карманами и эластичной отделкой.",
+      "catalogPhoto": "/images/catalog/packshot-37.webp",
+      "replacementFor": "triumph-37",
+      "match": "approved similar replacement; not claimed as exact Instagram item",
+      "sha256Original": "72643c314ce372ffcdc34b752d25e7d7534769b9810c6f53fc148a8cdf25c695",
+      "sha256Published": "fbc23008bbdd9313e19596e1a8f9fc6e3cf2543e5950b1e3f260183851e9aa17",
+      "originalDimensions": [
+        1094,
+        1237
+      ],
+      "publishedDimensions": [
+        720,
+        900
+      ],
+      "processing": "Downloaded product-only photograph. Plain background removed by pixel comparison; proportional resize and padding only. No AI generation or inpainting."
+    }
+  ],
+  "triumphProductsStatus": "Archived: worn-garment cutouts replaced by product-only photos after explicit approval of similar products."
+}
