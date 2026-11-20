@@ -135,23 +135,3 @@ footer h2{font-size:22px;margin-bottom:24px}footer .footer-links h3{font-size:12
 .current-looks-grid>article:nth-child(5) img{object-position:27% center}
 @media(min-width:651px){.current-looks-grid{grid-template-columns:repeat(6,minmax(0,1fr));gap:0}.current-looks-grid h3{font-size:11px;padding-inline:10px}.card-title{overflow-wrap:anywhere}.cart-sheet .cart-row>img{width:96px;height:120px}.cart-sheet .cart-row{gap:20px}.cart-sheet .cart-row a{line-height:1.5;overflow-wrap:anywhere}.modal.cart-sheet{width:min(520px,46vw);padding:64px 28px 28px}.cart-sheet .cart-bottom{padding-bottom:env(safe-area-inset-bottom)}}
 @media(min-width:1024px){.home-catalog,.catalog,.product{max-width:1600px;margin-inline:auto}.grid:not(.horizontal){grid-template-columns:repeat(4,minmax(0,1fr));gap:36px 24px}.grid>.card:only-child{grid-column:auto}.product-layout{grid-template-columns:minmax(0,1fr) minmax(340px,.85fr);gap:64px}.product-info{max-width:560px}.gallery-slide{max-height:calc(100dvh - 140px)}}
-
-/* November collection: photographic hero and compact, in-flow purchase action. */
-
-.hero-photos img{object-fit:cover;object-position:center 32%}
-.hero:before{height:26%;min-height:160px;background:linear-gradient(to bottom,rgba(0,0,0,.88),rgba(0,0,0,.4) 45%,transparent)}
-.hero:after{height:48%;background:linear-gradient(to top,rgba(0,0,0,.88),rgba(0,0,0,.48) 48%,transparent)}
-.top-brands{padding-block:24px 20px}
-.brand-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:12px 16px;max-width:760px;margin-top:16px}
-.brand-mark img{max-width:100%;object-fit:contain}
-.brand-mark img[src$="tommy.svg"]{max-width:70px;height:38px}
-.current-looks{padding:18px 0 24px;border-top:1px solid rgba(0,0,0,.14)}
-.current-looks-grid>article:nth-child(5) img{object-position:center}
-.wardrobe{padding-bottom:28px}
-.look-purchase{display:flex;align-items:center;justify-content:center;gap:12px;margin:16px auto 0;padding:0;max-width:560px}
-.look-purchase>div{display:flex;flex:none;flex-direction:column;gap:6px;white-space:nowrap}
-.look-purchase .small-label{font-size:10px}
-.look-purchase .primary{width:auto;min-width:172px;min-height:44px;padding:10px 12px;gap:8px;white-space:nowrap;font-size:11px}
-.look-purchase .primary>svg:last-child{margin-left:0}
-.look-details{margin-top:24px}
-@media(min-width:651px){.top-brands{padding-block:28px 24px}.current-looks{padding-block:20px 28px}.look-purchase{gap:40px}.hero-photos img{object-position:center top}}
