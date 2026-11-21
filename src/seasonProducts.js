@@ -87,5 +87,23 @@ export const seasonProducts = [
     "description": "Парный комплект из фланелевой ткани с шерстью: короткая куртка с отложным воротником, двойной молнией и боковыми карманами; прямые брюки с поясом на кулиске.",
     "match": "Похожий комплект, выбранный по образу из Instagram. Не подтверждён как точная модель из публикации.",
     "priceBasis": "Цена витрины FORME; не подтверждённая цена магазина-источника"
+  },
+  {
+    "id": "cd-icon-halfzip",
+    "name": "Свитшот Dior CD Icon Half-Zip",
+    "model": "513J635A0531_C988",
+    "category": "Свитшоты",
+    "color": "Графитовый",
+    "hex": "#343436",
+    "price": 16900,
+    "sourceUrl": "https://bordergara.com/products/dr-2505-0642",
+    "referenceInstagram": "https://www.instagram.com/triumph_mz/p/De_8ak4iOmU/",
+    "description": "Свитшот CD Icon с короткой молнией, воротником-стойкой и рельефной вышивкой.",
+    "neck": "Воротник-стойка с короткой молнией",
+    "composition": "100% хлопок",
+    "country": "Италия",
+    "catalogPhoto": "/images/catalog/cd-icon-halfzip.webp",
+    "priceBasis": "Цена витрины FORME; не подтверждённая цена магазина-источника",
+    "match": "Похожая модель, не подтверждена как точная вещь из Instagram"
   }
 ];

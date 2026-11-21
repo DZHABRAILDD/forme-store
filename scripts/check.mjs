@@ -5,7 +5,7 @@ import {packshotProducts} from '../src/packshotProducts.js';
 import {currentEditorials,featuredBrands} from '../src/editorial.js';
 import {createHash} from 'node:crypto';
 import {filterProducts} from '../src/catalog.js';
-assert.equal(catalogData.length,51);assert.equal(packshotProducts.length,17);assert.equal(currentEditorials.length,6);assert.equal(catalogData.filter(p=>p.category==='Кепки').length,8);assert(packshotProducts.every(p=>p.sourceUrl.startsWith('https://') && p.model && p.catalogPhoto.includes('/packshot-')));assert(!catalogData.some(p=>p.id.startsWith('triumph-')));assert(!data.some(p=>p.id.startsWith('tf-')||p.id.startsWith('boss-')));assert.equal(catalogData.find(p=>p.category==='Куртки').id,'bordered-cardigan');assert(!catalogData.some(p=>['hoodie','pocket-parka'].includes(p.id)));assert(catalogData.every(p=>p.post||p.sourceUrl||p.category==='Кепки'));assert(!catalogData.some(p=>p.id==='longsleeve-ivory'));
+assert.equal(catalogData.length,52);assert.equal(packshotProducts.length,17);assert.equal(currentEditorials.length,6);assert.equal(catalogData.filter(p=>p.category==='Кепки').length,8);assert(packshotProducts.every(p=>p.sourceUrl.startsWith('https://') && p.model && p.catalogPhoto.includes('/packshot-')));assert(!catalogData.some(p=>p.id.startsWith('triumph-')));assert(!data.some(p=>p.id.startsWith('tf-')||p.id.startsWith('boss-')));assert.equal(catalogData.find(p=>p.category==='Куртки').id,'bordered-cardigan');assert(!catalogData.some(p=>['hoodie','pocket-parka'].includes(p.id)));assert(catalogData.every(p=>p.post||p.sourceUrl||p.category==='Кепки'));assert(!catalogData.some(p=>p.id==='longsleeve-ivory'));
 assert.equal(looks.length,12);for(let i=0;i<looks.length;i++){const path=`public/images/model-cutout-${i}.webp`;assert(fs.existsSync(path));assert(fs.statSync(path).size<256000);}
 const plain={colors:[],size:'',min:'',max:'',sort:'default'};
 assert.equal(featuredBrands.length,8);
@@ -24,4 +24,4 @@ const bad=/lorem ipsum|FORME \/ (?:SELECTION|DETAILS)/i;
 for(const file of fs.readdirSync('src')){const text=fs.readFileSync('src/'+file,'utf8');assert(!bad.test(text),'Forbidden interface copy: '+file);assert(!/[\p{Emoji_Presentation}\uFE0F\u200D]/u.test(text),'Emoji: '+file);}
 assert(!/backdrop-filter|radial-gradient|box-shadow/.test(fs.readFileSync('src/style.css','utf8')));
 console.log('Passed: filters, sort, prices, image paths/sizes, all looks, saved-cart migration, copy, icons and header styles.');
-assert(!data.some(p=>['merano-set','cd-icon-set','cd-icon-halfzip','packshot-35','tapered-trousers','cap-tommy-logo','cap-shark-yachting'].includes(p.id)));
+assert(!data.some(p=>['merano-set','cd-icon-set','packshot-35','tapered-trousers','cap-tommy-logo','cap-shark-yachting'].includes(p.id)));
