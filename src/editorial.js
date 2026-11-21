@@ -115,5 +115,7 @@ export const featuredBrands = [
   {
     "name": "Lacoste",
     "image": "/images/brands/crocodile.png"
-  }
+  },
+  {name:"Tommy Hilfiger",image:"/images/brands/tommy.svg"},
+  {name:"Ralph Lauren",image:"/images/brands/ralph.svg"}
 ];

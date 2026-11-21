@@ -102,7 +102,7 @@ footer h2{font-size:22px;margin-bottom:24px}footer .footer-links h3{font-size:12
 
 .top-brands,.current-looks{padding:36px var(--gutter);background:#fff}
 .top-brands h2,.current-looks h2{font-size:20px;line-height:1.35;margin-top:8px}
-.brand-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px 18px;max-width:660px;margin:24px auto 0}
+.brand-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px 18px;max-width:760px;margin:24px auto 0}
 .brand-mark{display:flex;justify-content:center;align-items:center;min-width:0;height:64px}
 .brand-mark img{display:block;width:100%;max-width:110px;height:44px;object-fit:contain}
 .current-looks .section-heading{margin-bottom:20px}

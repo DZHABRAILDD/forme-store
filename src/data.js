@@ -52,12 +52,11 @@ data.push(...[
 ].map(([id,name,category,color,hex,price,post])=>({id,name,category,color,hex,price,post})));
 data.push(...[
  ['pocket-parka','Куртка с четырьмя карманами','Куртки','Графитовый','#343a40',15900,'DX_ux7aI_Su'],
- ['tapered-trousers','Зауженные брюки с боковой молнией','Брюки','Светло-серый','#bbc0bf',8900,'DXNAYgRgHnI'],
  ['relaxed-trousers','Брюки свободного кроя','Брюки','Чёрный','#25282c',8900,'DXHtGToiFAz'],
  ['deep-denim','Джинсы из тёмного денима','Джинсы','Индиго','#2c4051',9900,'DKcCvidIBM3'],
  ['faded-denim','Джинсы с контрастной строчкой','Джинсы','Голубой','#718592',9900,'DKZjCNZoa67']
 ].map(([id,name,category,color,hex,price,post])=>({id,name,category,color,hex,price,post})));
-data.push(...packshotProducts.filter(p=>p.id!=='packshot-0'),...seasonProducts.filter(p=>!['merano-trousers','cd-icon-trousers'].includes(p.id)));
+data.push(...packshotProducts.filter(p=>!['packshot-0','packshot-35'].includes(p.id)),...seasonProducts.filter(p=>!['merano-trousers','cd-icon-trousers'].includes(p.id)));
 const catalogData=data.filter(p=>Boolean(p.post||p.sourceUrl||p.category==='Кепки')&&!['pocket-parka','hoodie'].includes(p.id));
 catalogData.forEach(p=>{if(p.category!=='Кепки')p.catalogPhoto='/images/catalog/'+p.id+'.webp'});
 const priority=p=>p.id==='bordered-cardigan'?-2:p.id==='boss-mardon-cardigan'?-1:0;
